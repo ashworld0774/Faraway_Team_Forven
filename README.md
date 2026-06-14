@@ -88,7 +88,8 @@ The AI engine analyzes this data and generates actionable maintenance insights b
 
 ## 🔌 PCB Design
 
-<img width="1600" height="1142" alt="image" src="https://github.com/user-attachments/assets/43afce42-3589-4c21-8bd8-f157031351b8" />
+<img width="827" height="426" alt="image" src="https://github.com/user-attachments/assets/718dc54f-ccc0-4fec-994c-f42384aa3ccd" />
+
 
 ### Repository Assets
 
